@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter-display: "Inter Display";
+  --semi-bold-16: "IBM Plex Sans";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --semi-bold-16-size: 16px;
+  --font-size-41xl: 60px;
+  --font-size-19xl: 38px;
+  --font-size-7xl: 26px;
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-31xl: 50px;
+  --font-size-13xl: 32px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-16xl: 35px;
+  --font-size-lgi-5: 19.5px;
+  --font-size-base-2: 15.2px;
+  --font-size-mini-4: 14.4px;
+  --font-size-34xl-9: 53.9px;
+  --font-size-15xl-1: 34.1px;
+  --font-size-4xl-3: 23.3px;
+  --font-size-9xl: 28px;
+  --font-size-10xl-3: 29.3px;
+  --font-size-mini-8: 14.8px;
+  --font-size-11xl-8: 30.8px;
+  --font-size-3xs-5: 9.5px;
+  --font-size-sm-3: 13.3px;
+  --font-size-base-6: 16.6px;
+  --font-size-lgi-2: 19.2px;
+  --font-size-5xs-3: 7.3px;
+
+  /* Colors */
+  --bg: rgb(0, 8, 15);
+  --base-white: #fff;
+  --gray-800: #27272a;
+  --tertiary: #23252a;
+  --color-gray-100: #1b1d1c;
+  --gray-900: #18181b;
+  --color-gray-200: rgba(0, 0, 0, 0.76);
+  --gray-500: #71717a;
+  --gradient-01: #6ddcff;
+  --blue-3: #56ccf2;
+  --secondary: #d5f60c;
+  --color-darkslateblue: #1f3173;
+  --gray-400: #a1a1aa;
+  --color-silver: #c2c2c2;
+  --primary: #4269f6;
+  --color-mediumslateblue-100: rgba(66, 105, 246, 0.47);
+  /* Spacing */
+  --boundvariablesdata: 48px;
+
+  /* Gaps */
+  --gap-4xs: 9px;
+  --gap-15xl: 34px;
+  --gap-21xl: 40px;
+  --gap-34xl: 53px;
+  --gap-5xs: 8px;
+  --gap-4xs-1: 8.1px;
+  --gap-9xs-7: 3.7px;
+
+  /* Paddings */
+  --padding-base: 16px;
+  --padding-29xl: 48px;
+  --padding-5xs: 8px;
+  --padding-mini-4: 14.4px;
+  --padding-18xl: 37px;
+  --padding-8xs-8: 4.8px;
+  --padding-9xs-7: 3.7px;
+  --padding-5xs-4: 7.4px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-7xs: 6px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-11xl: 30px;
+  --br-8xs-5: 4.5px;
+  --br-7xs-4: 5.4px;
+  --br-base-6: 15.6px;
+  --br-mid-9: 17.9px;
+  --br-5xs: 8px;
+  --br-sm-7: 13.7px;
+  --br-3xs-2: 9.2px;
+}
